@@ -1,0 +1,3 @@
+[submodule "smartbrain_frontend"]
+	path = smartbrain_frontend
+	url = https://github.com/anjalee1/smartbrain_frontend
