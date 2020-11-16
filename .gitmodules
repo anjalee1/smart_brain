@@ -1,3 +1,6 @@
 [submodule "smartbrain_frontend"]
 	path = smartbrain_frontend
 	url = https://github.com/anjalee1/smartbrain_frontend
+[submodule "smartbrain_backend"]
+	path = smartbrain_backend
+	url = https://github.com/anjalee1/smartbrain_backend
